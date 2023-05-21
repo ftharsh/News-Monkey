@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 25,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Man acquitted of bombing 1985 Air India flight shot dead in Canada",
+            "description": "Ripudaman Singh Malik was accused of involvement in Canada's worst terror attack that killed 329.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62175291",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4792/production/_125922381_847dcf45a9105863bb14ba6a53021c2cf29d39b6.jpg",
+            "publishedAt": "2022-07-15T09:22:21.6766959Z",
+            "content": "A man acquitted over the bombing of a 1985 Air India flight has been killed in a suspected targeted shooting in Canada, police say.\r\nRipudaman Singh Malik was shot dead in his car in Surrey, British … [+1256 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "María Luisa Paúl",
+            "title": "Record shows Indiana doctor fulfilled duty to report 10-year-old’s abortion",
+            "description": "Records show the doctor, Caitlin Bernard, reported the 10-year-old's abortion as required by law, despite criticism from Indiana Attorney General Todd Rokita.",
+            "url": "https://www.washingtonpost.com/nation/2022/07/15/indiana-doctor-abortion-report-investigation/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5WPZSB6UAI6RFK3PUXBTN4ZMY.jpg&w=1440",
+            "publishedAt": "2022-07-15T09:04:00+00:00",
+            "content": "Comment on this story\r\nHours after a man was charged Wednesday with raping a 10-year-old Ohio girl, Indiana Attorney General Todd Rokita (R) questioned whether the Indianapolis doctor who helped the … [+6909 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "HT Correspondent",
+            "title": "After list of unparliamentary words, a fresh notice to MPs irks Opposition",
+            "description": "The Lok Sabha Secretariat released a revised booklet comprising a list of unparliamentary words ahead of the monsoon session, which includes terms such as ‘jumlajeevi’, ‘baal buddhi’, ‘Covid spreader’ and ‘Snoopgate’ | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/after-list-of-unparliamentary-words-a-fresh-notice-to-mps-irks-opposition-101657869183796.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/07/15/1600x900/34d22e04-041a-11ed-b321-4ff06a2f93f5_1657876857954.jpg",
+            "publishedAt": "2022-07-15T09:00:04+00:00",
+            "content": "The Opposition on Friday slammed the central government over the recently released Parliament bulletin which bars members from using certain words, and also prevents them from any demonstration, dhar… [+2598 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Doctor's lawyer defends steps in 10-year-old girl's abortion",
+            "description": "The lawyer for an Indiana doctor who has found herself at the center of a political firestorm after speaking out about a 10-year-old child abuse victim who traveled from Ohio for an abortion says her client provided proper treatment",
+            "url": "https://abcnews.go.com/Health/wireStory/doctors-lawyer-defends-steps-girls-cross-state-abortion-86853140",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_aafed13673dc461ebdcc3febda63b507_16x9_992.jpg",
+            "publishedAt": "2022-07-15T05:37:26.0040518Z",
+            "content": "INDIANAPOLIS -- The lawyer for an Indiana doctor at the center of a political firestorm after speaking out about a 10-year-old child abuse victim who traveled from Ohio for an abortion said Thursday … [+4019 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Isha Sahai Bhatnagar",
+            "title": "Congress ally JMM, other parties back Droupadi Murmu for President",
+            "description": "NDA fielded Droupadi Murmu while a combined 17 opposition parties have nominated former union minister Yashwant Singh as their presidential candidate | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/congress-ally-jmm-other-parties-back-droupadi-murmu-for-president-101657859581614.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/07/15/1600x900/56d6cda4-03f5-11ed-ab02-e6bf6409323d_1657861617369.jpg",
+            "publishedAt": "2022-07-15T04:33:01+00:00",
+            "content": "Jharkhand Mukti Morcha (JMM), on Thursday, became the latest non-National Democratic Alliances (NDA)-party to announce its support for presidential candidate Droupadi Murmu.\r\nJMM being an ally of the… [+2318 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Indiana doctor who performed abortion for 10-year-old reported procedure, records show; AG looking into OB-GYN",
+            "description": "Indiana Attorney General Todd Rokita told Fox News he is looking into Dr. Caitlin Bernard, but he provided no evidence of wrongdoing.",
+            "url": "https://www.usatoday.com/story/news/nation/2022/07/14/indiana-attorney-general-todd-rokita-investigating-abortion-doctor/10060861002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/06/25/PIND/287aa377-6320-4a03-aaa3-b6543b1103ee-0625_abortion_rights_rally_JRW006.JPG?crop=2399,1350,x0,y122&width=2399&height=1350&format=pjpg&auto=webp",
+            "publishedAt": "2022-07-15T01:40:30+00:00",
+            "content": "INDIANAPOLIS The Indiana doctor who provided an abortion to a 10-year-old rape victim from Ohio did report the procedure with a form filed with the Indiana Department of Health and the Department of … [+6886 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Swati Bhasin",
+            "title": "India's free booster 75-day drive starts today, Govt urges for ‘ambitious push’",
+            "description": "India Covid vaccination drive: Only about 8 per cent of eligible adult population has taken their 3rd vaccine dose against Covid.  | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/indias-free-booster-75-day-drive-starts-today-govt-urges-for-ambitious-push-101657846102006.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/07/15/1600x900/20220713-KPT-SK-MN-05-0_1657846368306_1657846368306_1657846384501_1657846384501.JPG",
+            "publishedAt": "2022-07-15T00:56:39+00:00",
+            "content": "Starting Friday, all adults - in the 18-75 age group - will be able to get a free booster or precautionary dose at government Covid vaccine centres. Indias push for the third dose of Covid vaccine co… [+1714 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Adrian WojnarowskiSenior NBA Insider ",
+            "title": "Phoenix Suns match Indiana Pacers' 4-year, $133 million offer sheet to Deandre Ayton",
+            "description": "The Suns matched the Pacers four-year, $133 million offer sheet for restricted free agent center Deandre Ayton, clearing the way for him to return to the franchise, his agents Bill Duffy and Nima Namakian told ESPN.",
+            "url": "http://espn.go.com/nba/story/_/id/34245243/phoenix-suns-match-indiana-pacers-4-year-133-million-offer-sheet-deandre-ayton",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0711%2Fr1035282_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-07-15T00:31:00Z",
+            "content": "The Phoenix Suns matched the Indiana Pacers' four-year, $133 million offer sheet for restricted free agent center Deandre Ayton, clearing the way for him to return to the franchise, his agents Bill D… [+661 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": "Kim Bolan",
+            "title": "Ripudaman Singh Malik, acquitted in Air India bombing, had many enemies",
+            "description": "Former top Mountie said there are many possible motives for the murder of the terror suspect",
+            "url": "https://vancouversun.com/news/crime/man-dead-targeted-surrey-shooting",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2022/07/air-india-20120712.jpg",
+            "publishedAt": "2022-07-15T00:22:30+00:00",
+            "content": "Homicide investigators are now trying to figure out who killed the controversial community leader, one-time terror suspect, wealthy businessman and founder of both the Khalsa Credit Union and Khalsa … [+12151 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "TOM DAVIES and JULIE CARR SMYTH",
+            "title": "Doctor's lawyer defends steps in 10-year-old girl's abortion",
+            "description": "INDIANAPOLIS (AP) — The lawyer for an Indiana doctor at the center of a political firestorm after speaking out about a 10-year-old child abuse victim who traveled from Ohio for an abortion said Thursday that her client provided proper treatment and did not vi…",
+            "url": "https://apnews.com/62ff581984a33e86ee29302ce8e44120",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/41b3ef6027064fd3b6c7278fd9137be6/2400.jpeg",
+            "publishedAt": "2022-07-15T00:10:58Z",
+            "content": "INDIANAPOLIS (AP) — The lawyer for an Indiana doctor at the center of a political firestorm after speaking out about a 10-year-old child abuse victim who traveled from Ohio for an abortion said Thurs… [+4092 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Binder",
+            "title": "Detectives Say Illegal Alien Admitted To Twice Raping 10-Year-Old as Girl's Mother Defends Him",
+            "description": "Detectives say the illegal alien charged with rape admitted to raping the 10-year-old girl who traveled to Indiana for an abortion two times.",
+            "url": "https://www.breitbart.com/politics/2022/07/14/detectives-say-illegal-alien-admitted-raping-10-year-old-twice-as-girls-mother-defends-him/",
+            "urlToImage": "https://media.breitbart.com/media/2022/07/FCSO-640x335.png",
+            "publishedAt": "2022-07-14T22:21:09Z",
+            "content": "Detectives say the illegal alien charged with rape admitted to raping a 10-year-old girl who traveled from Ohio to Indiana to have an abortion two times. The girl’s mother, in an interview with Telem… [+3083 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "Pacers offer Deandre Ayton largest offer sheet in NBA history",
+            "description": "Phoenix is on the cusp of losing its star big man for nothing, after Indiana's huge offer to the 23-year old center.",
+            "url": "http://www.foxsports.com/stories/nba/indiana-pacers-offer-deandre-ayton-largest-offer-sheet-nba-history-phoenix-suns",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/1408/814/07.13.22_pacers-offer-Deandre-Ayton_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-07-14T20:59:31Z",
+            "content": "The Phoenix Suns will have 48 hours to respond once the Indiana Pacers' four-year, $133 million offer to center Deandre Ayton goes through the league office.\r\nThe offer sheet represents the largest i… [+2471 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Ripudaman Singh Malik, acquitted in Air India bombing, shot to death in Surrey | CBC News",
+            "description": "Malik and a co-accused were acquitted in the 1985 Air India bombing that killed 335 people.",
+            "url": "http://www.cbc.ca/news/canada/british-columbia/ripudaman-singh-malik-air-india-bombing-shot-dead-1.6520628",
+            "urlToImage": "https://i.cbc.ca/1.6520631.1657818681!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/air-india-20120712.jpg",
+            "publishedAt": "2022-07-14T18:52:21.2844688Z",
+            "content": "Ripudaman Singh Malik, one of two men acquitted in the 1985 Air India terrorist bombing, has been shot to death in Surrey, B.C.\r\nA witness in the 8200-block of 128 Street told CBC he heard three shot… [+604 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "Twitter's Case in India Could Have Massive Ripple Effects",
+            "description": "A ruling against the company could allow the government to censor a wide swath of platforms, and set a global precedent.",
+            "url": "https://www.wired.com/story/twitters-case-in-india-could-have-massive-ripple-effects",
+            "urlToImage": "https://media.wired.com/photos/62ce053e8c54375988f181c1/191:100/w_1280,c_limit/Twitter-Case-India-Censorship-Business-1292373024.jpg",
+            "publishedAt": "2022-07-13T18:26:04Z",
+            "content": "In June, Twitter received an ultimatum from the Indian government to remove some 39 accounts and content from its platform. Sources familiar with the order say it outlined that if Twitter refused to … [+3323 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Emma Hinchliffe, Paige McGlauflin",
+            "title": "Why a former SoftBank partner is tackling mid-career drop-off for working mothers",
+            "description": "Former SoftBank partner and Facebook India director Kirthiga Reddy is the cofounder of Laddrr, a resource hub for working mothers aiming to prevent mid-career drop-off.",
+            "url": "https://fortune.com/2022/06/01/former-softbank-partner-tackling-mid-career-drop-off-for-working-mothers/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/Kirthiga1.jpg?resize=1200,600",
+            "publishedAt": "2022-06-01T13:22:34Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "Ananth Krishnan",
+            "title": "Dalai Lama’s close aides targeted on Pegasus spyware list",
+            "description": "‘Analysis indicates that the Indian govt. was selecting the potential targets’",
+            "url": "https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece",
+            "urlToImage": "https://www.thehindu.com/news/international/dvshb0/article35474284.ece/ALTERNATES/LANDSCAPE_615/thjc-DalaiLama",
+            "publishedAt": "2021-07-22T15:47:01Z",
+            "content": "Several of the top India-based aides to the Tibetan spiritual leader, the Dalai Lama, figure on the list of potential targets for spying using the Pegasus spyware, according to a report on Thursday. … [+2399 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "RTÉ News",
+            "title": "UK continues with reopening plan despite concerns",
+            "description": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.",
+            "url": "https://www.rte.ie/news/uk/2021/0515/1221764-uk-indian-variant/",
+            "urlToImage": "https://img.rasset.ie/0016cb40-1600.jpg",
+            "publishedAt": "2021-05-15T09:33:48Z",
+            "content": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.\r\nPrim… [+5066 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Rajat Pandit",
+            "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+            "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+            "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T08:29:00Z",
+            "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+            "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+            "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:44:49Z",
+            "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment",
+            "description": "India News: Drug firm Zydus Cadila on Friday said it has received restricted emergency use approval from the Indian drug regulator for the use of Pegylated Interf",
+            "url": "http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214921,width-1070,height-580,imgsize-98052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:43:00Z",
+            "content": null
+        }
+    ]
+}
