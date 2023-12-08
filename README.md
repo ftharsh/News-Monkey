@@ -4,7 +4,6 @@
 * CSS
 * JavaScript
 * React Js
-* Bootstrap
 * Git / GitHub
 ___
 ## **Description** : 
