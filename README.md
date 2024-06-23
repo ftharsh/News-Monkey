@@ -38,6 +38,6 @@ You can access my project from your local machine !
 >https : https://github.com/ftharsh/Netted
 
 ```bash
-    git clone https://github.com/ftharsh/Netted.git
+    git clone https://github.com/ftharsh/News-Monkey.git
 ```
 ___
