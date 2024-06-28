@@ -35,7 +35,7 @@ ___
 ___
 ## **Download Links** : 
 You can access my project from your local machine !
->https : https://github.com/ftharsh/Netted
+>https : https://github.com/ftharsh/News-Monkey
 
 ```bash
     git clone https://github.com/ftharsh/News-Monkey.git
