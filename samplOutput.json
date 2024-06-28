@@ -2,7 +2,7 @@
     "status": "ok",
     "totalResults": 25,
     "articles": [
-        {
+        { 
             "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
