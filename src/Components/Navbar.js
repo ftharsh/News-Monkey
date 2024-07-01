@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from "react-router-dom";
 const Navbar = () => {
     return (
-        <div>
+        <div> 
             <nav className="navbar fixed-top navbar-expand-lg navbar-dark " style={{ backgroundColor: "#7d331c", border: "8px solid #f33030" }} >
                 <div className="container-fluid">
                     <Link style={{ color: "white", fontSize: "26px", fontWeight: "bold" }} className="navbar-brand" to="/">NewsMonkey</Link>
